@@ -1,0 +1,22 @@
+header{
+    text-align: center;
+}
+
+p1{
+    text-align: start;
+}
+p2{
+    text-align: end;
+}
+
+p{
+    text-align: center;
+}
+input{
+    border-radius: 10px;
+    border-width: 1px;
+    
+}
+footer{
+    background-color: rgb(245, 243, 243);
+}
