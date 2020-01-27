@@ -1,22 +1,52 @@
+body{
+    position: relative;
+    text-align: center;
+    
+}
 header{
     text-align: center;
+    margin: auto;
+}
+h1{
+    position: relative;
 }
 
-p1{
-    text-align: start;
-}
-p2{
-    text-align: end;
-}
 
-p{
-    text-align: center;
-}
+
 input{
     border-radius: 10px;
     border-width: 1px;
+    border-left-width: 1px;
+    height: 34px;
+    width: 200px;
     
 }
 footer{
-    background-color: rgb(245, 243, 243);
+    position: relative;
+    background-color: rgb(167, 166, 166);
 }
+table{
+   display: inline; 
+   border-radius: 12px;
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    background-color: white;
+
+}
+li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 12px 12px;
+    text-decoration: none;
+  }
